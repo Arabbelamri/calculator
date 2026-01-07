@@ -1,0 +1,21 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# (optionnel mais recommandé) fichiers locaux d'outils
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# (optionnel) IDE
+.vscode/
+.idea/
