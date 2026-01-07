@@ -1,10 +1,11 @@
-# calculator
+# Calculator
 
-## Run calculator
+Projet de calculatrice en Python.
 
-### Sum
+## Installation
 
-Example : 
 ```bash
-python src/main.py -op sum -val1 1 -val2 2
-```
+python -m venv venv
+# PowerShell
+.\venv\Scripts\Activate.ps1
+pip install -r requirements.txt
